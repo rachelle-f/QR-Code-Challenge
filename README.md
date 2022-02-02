@@ -14,8 +14,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 This is my first challenge project from [Frontend Mentor](https://www.frontendmentor.io) and I really enjoyed the practice it gave me. I took it upon myself to do it without using Flexbox as I am just beginning to learn it and wanted more practice without it. It also gave me practice using the GitHub web interface to create new repositories and upload files.
