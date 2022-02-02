@@ -20,7 +20,7 @@ This is my first challenge project from [Frontend Mentor](https://www.frontendme
 
 ### Screenshot
 
-![Solution Screenshot](/assets/images/solution.png)
+![Solution Screenshot](https://i.ibb.co/h7hKy26/solution.png)
 
 ### Links
 
